@@ -1,4 +1,4 @@
-# [CODE OF MERIT (v1.0)](https://github.com/rosarior/Code-of-Merit)
+# [CODE OF MERIT <i>(v1.0 OCTOBER 2, 2018 15:14:24 )](https://github.com/rosarior/Code-of-Merit)</i>
 
 1. The project creators, lead developers, core team, constitute the managing members of the project and have final say in every decision of the project, technical or otherwise, including overruling previous decisions. There are no limitations to this decisional power.
 
