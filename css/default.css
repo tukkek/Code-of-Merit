@@ -1,0 +1,24 @@
+body
+{
+	font-family: Arial, Verdana, Geneva, sans-serif;
+	font-weight: normal;
+}
+
+
+h1
+{
+	font-family: Arial, Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	padding-left:10px;
+}
+
+i
+{
+	font-weight: 200;
+}
+
+p
+{
+	padding-left: 22px ;
+	text-indent: -22px ;
+}
