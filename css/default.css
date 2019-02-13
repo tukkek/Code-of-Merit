@@ -1,5 +1,26 @@
+/* Default left, right, top, bottom margin is 2cm */
+@page { margin: 2cm } 
+
+/* First page, 10 cm margin on top */
+@page :first {
+  margin-top: 10cm;
+}
+
+/* Left pages, a wider margin on the left */
+@page :left {
+  margin-left: 3cm;
+  margin-right: 2cm;
+}
+
+@page :right {
+  margin-left: 2cm;
+  margin-right: 3cm;
+}
+
+
 body
 {
+	background: white;
 	font-family: Arial, Verdana, Geneva, sans-serif;
 	font-weight: normal;
 }
@@ -7,9 +28,7 @@ body
 
 h1
 {
-	font-family: Arial, Verdana, Geneva, sans-serif;
 	font-weight: bold;
-	padding-left:10px;
 }
 
 i
@@ -19,6 +38,5 @@ i
 
 p
 {
-	padding-left: 22px ;
-	text-indent: -22px ;
+	font-weight: normal;
 }

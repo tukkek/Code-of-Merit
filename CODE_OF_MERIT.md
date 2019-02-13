@@ -1,8 +1,5 @@
 # Code of Merit
 
-<i>Source: Roberto Rosario [@siloraptor](https://twitter.com/siloraptor)
-([v1.0 2018-12-04 20:30:29](http://web.archive.org/web/20181204203029/http://code-of-merit.org/))</i>
-
 **1.** The project creators, lead developers, core team, constitute the managing members of the project and have final say in every decision of the project, technical or otherwise, including overruling previous decisions. There are no limitations to this decisional power.
 
 **2.** Contributions are an expected result of your membership on the project. Don’t expect others to do your work or help you with your work forever.
@@ -32,3 +29,4 @@
 **14.** No objectives beyond the stated objectives of this project are relevant to the project. Any intent to deviate the project from its original purpose of existence will constitute grounds for remedial action which may include expulsion from the project.
 
 This document is the Code of Merit (<strike>`http://code-of-merit.org`</strike>), version 1.0.
+
