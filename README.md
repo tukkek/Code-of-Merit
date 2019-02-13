@@ -11,7 +11,7 @@ Send a pull request.
 ## Derivative work
 If you create a derivative work, please add the following notice at the footer.
 
-This document is adapted from the Code of Merit (http://code-of-merit.org), version 1.0.
+> This document is adapted from the Code of Merit (http://code-of-merit.org), version 1.0.
 
 
 <i><b>README.md</b> Source: Roberto Rosario ([@siloraptor](https://twitter.com/siloraptor))
