@@ -15,4 +15,4 @@ If you create a derivative work, please add the following notice at the footer.
 
 <hr/>
 <i><b>README.md</b> Source: Roberto Rosario ([@siloraptor](https://twitter.com/siloraptor))
-([v1.0 2018-12-03- 22:42:45](http://web.archive.org/web/20181203224245/https://github.com/rosarior/Code-ohttp://web.archive.org/web/20181203224245/https://github.com/rosarior/Code-of-Meritf-Merit))</i>
+([v1.0 2018-12-03- 22:42:45](http://web.archive.org/web/20181203224245/https://github.com/rosarior/Code-of-Merit))</i>
