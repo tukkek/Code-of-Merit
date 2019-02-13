@@ -1,4 +1,5 @@
-# [CODE OF MERIT <i>(v1.0 2018-12-04 20:30:29)](http://web.archive.org/web/20181204203029/http://code-of-merit.org/)</i>
+# CODE OF MERIT
+<i>Source: [(v1.0 2018-12-04 20:30:29)](http://web.archive.org/web/20181204203029/http://code-of-merit.org/)</i>
 
 1. The project creators, lead developers, core team, constitute the managing members of the project and have final say in every decision of the project, technical or otherwise, including overruling previous decisions. There are no limitations to this decisional power.
 
